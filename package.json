@@ -9,7 +9,7 @@
   "license": "ISC",
   "author": "Rafiul Hoque",
   "type": "module",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "start"
   }
