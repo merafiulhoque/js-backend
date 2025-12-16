@@ -1,0 +1,16 @@
+{
+  "name": "js-backend",
+  "version": "1.0.0",
+  "description": "a backend",
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Rafiul Hoque",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  }
+}
